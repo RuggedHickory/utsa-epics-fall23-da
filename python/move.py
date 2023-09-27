@@ -35,4 +35,4 @@ if __name__ == "__main__":
     destination_root_folder = "C:\\Users\\dagui\\OneDrive\\1-50"  # Replace with destination root folder path
     num_folders = 5  # Number of folders
     
-    organize_images(source_folder, destination_root_folder, num_folders)
+    organize_images(source_folder, destination_root_folder, num_folders) #DA
